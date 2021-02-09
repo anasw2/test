@@ -3,4 +3,11 @@ does it?
 
 ++++++++++++++
 from local repo
+<<<<<<< sec_repo
 99999999
+=======
+
+
+++++
+pull req
+>>>>>>> main
